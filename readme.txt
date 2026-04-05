@@ -160,7 +160,7 @@ REQUIREMENTS FOR ANYONE USING THIS:
 HOW TO SHARE:
 
   Option A: Send them the GitHub link (Easiest)
-    1. Share this repo link: https://github.com/YOUR_USERNAME/WolfStudiosIncagent
+    1. Share this repo link: https://github.com/WolfStudiosInc/WolfStudiosIncagent
     2. They click the green "Code" button -> "Download ZIP"
     3. Extract the ZIP anywhere on their computer
     4. Double-click install.bat (Windows) or run install.sh (Mac/Linux)
