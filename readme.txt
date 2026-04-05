@@ -194,6 +194,13 @@ AFTER INSTALLING:
   3. Select @wolf-studios from the agent picker
   4. Type a request like "build me a website" or "check this project for errors"
 
+TROUBLESHOOTING:
+  If the agent doesn't show up after installing:
+    1. Close VS Code completely (make sure it's not still running in the system tray)
+    2. Reopen VS Code
+    3. Open Copilot Chat — @wolf-studios should now appear in the agent picker
+    This is normal — VS Code only loads new agents on startup.
+
 NOTES
 -----
 
