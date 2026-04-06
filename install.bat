@@ -1,4 +1,18 @@
 @echo off
+REM ==============================================================================
+REM Copyright (c) 2026 Wolf Studios Inc. All rights reserved.
+REM Created: April 6, 2026
+REM Developer: Neko Wolf Dev
+REM Year: 2026
+REM
+REM PROPRIETARY AND CONFIDENTIAL
+REM This file is the exclusive property of Wolf Studios Inc.
+REM Unauthorized copying, modification, distribution, or use of this file,
+REM in whole or in part, is strictly prohibited without prior written
+REM permission from Wolf Studios Inc.
+REM
+REM This copyright notice may NOT be removed, altered, or obscured.
+REM ==============================================================================
 echo.
 echo  ========================================
 echo   Wolf Studios Inc - Agent Installer

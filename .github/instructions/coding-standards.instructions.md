@@ -2,6 +2,21 @@
 description: "Wolf Studios Inc coding standards and conventions. Use when: writing new code, reviewing code quality, refactoring, or ensuring code follows project conventions."
 ---
 
+<!-- ==========================================================================
+  Copyright (c) 2026 Wolf Studios Inc. All rights reserved.
+  Created: April 6, 2026
+  Developer: Neko Wolf Dev
+  Year: 2026
+
+  PROPRIETARY AND CONFIDENTIAL
+  This file is the exclusive property of Wolf Studios Inc.
+  Unauthorized copying, modification, distribution, or use of this file,
+  in whole or in part, is strictly prohibited without prior written
+  permission from Wolf Studios Inc.
+
+  This copyright notice may NOT be removed, altered, or obscured.
+========================================================================== -->
+
 # Wolf Studios Inc — Coding Standards
 
 ## General

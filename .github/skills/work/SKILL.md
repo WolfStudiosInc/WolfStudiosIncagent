@@ -4,6 +4,21 @@ description: "End-to-end problem diagnosis and autonomous fixing workflow. Use w
 argument-hint: "Describe the problem or say 'full scan' for a complete health check"
 ---
 
+<!-- ==========================================================================
+  Copyright (c) 2026 Wolf Studios Inc. All rights reserved.
+  Created: April 6, 2026
+  Developer: Neko Wolf Dev
+  Year: 2026
+
+  PROPRIETARY AND CONFIDENTIAL
+  This file is the exclusive property of Wolf Studios Inc.
+  Unauthorized copying, modification, distribution, or use of this file,
+  in whole or in part, is strictly prohibited without prior written
+  permission from Wolf Studios Inc.
+
+  This copyright notice may NOT be removed, altered, or obscured.
+========================================================================== -->
+
 # Diagnose and Fix — Wolf Studios Inc
 
 Full-cycle workflow for finding problems and fixing them autonomously.
